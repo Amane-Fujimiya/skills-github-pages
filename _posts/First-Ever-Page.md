@@ -1,7 +1,6 @@
 ---
 title: "First Ever Page"
 date: 2024-04-23
-layout: default
 ---
 
 # Preliminaries
